@@ -5,31 +5,31 @@
 
 ## Системы и хранилища
 
-<img src="./skills-systems.png?v=icons" width="603" alt="Windows Server, Active Directory, RDS, Debian, Ubuntu, TrueNAS">
+<img src="https://raw.githubusercontent.com/Alexan1111t/Alexan1111t/4daf689593fba2c2032fe5b5156efb02ce0277a7/skills-systems.png" width="603" alt="Windows Server, Active Directory, RDS, Debian, Ubuntu, TrueNAS">
 
 ## Сети и мониторинг
 
-<img src="./skills-networks.png?v=icons" width="379" alt="MikroTik, UniFi, WireGuard, Zabbix, TCP/IP, DNS, VPN, NAT и проброс портов">
+<img src="https://raw.githubusercontent.com/Alexan1111t/Alexan1111t/4daf689593fba2c2032fe5b5156efb02ce0277a7/skills-networks.png" width="379" alt="MikroTik, UniFi, WireGuard, Zabbix, TCP/IP, DNS, VPN, NAT и проброс портов">
 
 ## Разработка и автоматизация
 
-<img src="./skills-development.png?v=icons" width="384" alt="PowerShell, Python, JavaScript, Node.js, HTML5, CSS3, npm, Git / GitHub">
+<img src="https://raw.githubusercontent.com/Alexan1111t/Alexan1111t/4daf689593fba2c2032fe5b5156efb02ce0277a7/skills-development.png" width="384" alt="PowerShell, Python, JavaScript, Node.js, HTML5, CSS3, npm, Git / GitHub">
 
 ## Десктоп и сборка
 
-<img src="./skills-desktop.png?v=icons" width="382" alt="Electron.js, Vite, electron-builder, NSIS">
+<img src="https://raw.githubusercontent.com/Alexan1111t/Alexan1111t/4daf689593fba2c2032fe5b5156efb02ce0277a7/skills-desktop.png" width="382" alt="Electron.js, Vite, electron-builder, NSIS">
 
 ## Базы данных и форматы
 
-<img src="./skills-data.png?v=icons" width="368" alt="PostgreSQL, MariaDB, Microsoft SQL Server, JSON, YAML">
+<img src="https://raw.githubusercontent.com/Alexan1111t/Alexan1111t/4daf689593fba2c2032fe5b5156efb02ce0277a7/skills-data.png" width="368" alt="PostgreSQL, MariaDB, Microsoft SQL Server, JSON, YAML">
 
 ## API и интеграции
 
-<img src="./skills-integrations.png?v=icons" width="530" alt="REST API, Discord Rich Presence, BattleMetrics API, Hetzner Cloud API, Telegram Bot API, Discord Bot API, Webhooks">
+<img src="https://raw.githubusercontent.com/Alexan1111t/Alexan1111t/4daf689593fba2c2032fe5b5156efb02ce0277a7/skills-integrations.png" width="530" alt="REST API, Discord Rich Presence, BattleMetrics API, Hetzner Cloud API, Telegram Bot API, Discord Bot API, Webhooks">
 
 ## Локализация
 
-<img src="./skills-localization.png?v=icons" width="206" alt="Украинский, Русский">
+<img src="https://raw.githubusercontent.com/Alexan1111t/Alexan1111t/4daf689593fba2c2032fe5b5156efb02ce0277a7/skills-localization.png" width="206" alt="Украинский, Русский">
 
 ## Избранные проекты
 
