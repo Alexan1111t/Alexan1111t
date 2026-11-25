@@ -1,34 +1,39 @@
 ![Alexan1111t](./banner-v2.jpg)
 
 **Системное администрирование, сети и автоматизация.**  
-Веб-проекты, инструменты для Discord и локализация.
+Десктопные приложения, веб-проекты, инструменты для Discord и локализация.
 
 ## Системы и хранилища
 
-<img src="./skills-systems.png" width="655" alt="Windows Server, Active Directory, RDS, Debian, Ubuntu, TrueNAS">
+<img src="./skills-systems.png" width="603" alt="Windows Server, Active Directory, RDS, Debian, Ubuntu, TrueNAS">
 
 ## Сети и мониторинг
 
-<img src="./skills-networks.png" width="370" alt="MikroTik, UniFi, WireGuard, Zabbix">
+<img src="./skills-networks.png" width="379" alt="MikroTik, UniFi, WireGuard, Zabbix, TCP/IP, DNS, VPN, NAT и проброс портов">
 
 ## Разработка и автоматизация
 
-<img src="./skills-development.png" width="488" alt="PowerShell, Python, JavaScript, Node.js, HTML5, CSS3, npm, Git / GitHub">
+<img src="./skills-development.png" width="384" alt="PowerShell, Python, JavaScript, Node.js, HTML5, CSS3, npm, Git / GitHub">
+
+## Десктоп и сборка
+
+<img src="./skills-desktop.png" width="382" alt="Electron.js, Vite, electron-builder, NSIS">
 
 ## Базы данных и форматы
 
-<img src="./skills-data.png" width="366" alt="PostgreSQL, MariaDB, JSON, YAML">
+<img src="./skills-data.png" width="368" alt="PostgreSQL, MariaDB, Microsoft SQL Server, JSON, YAML">
 
 ## API и интеграции
 
-<img src="./skills-integrations.png" width="432" alt="REST API, Discord Rich Presence, BattleMetrics API">
+<img src="./skills-integrations.png" width="530" alt="REST API, Discord Rich Presence, BattleMetrics API, Hetzner Cloud API, Telegram Bot API, Discord Bot API, Webhooks">
 
 ## Локализация
 
-<img src="./skills-localization.png" width="220" alt="Украинский, Русский">
+<img src="./skills-localization.png" width="206" alt="Украинский, Русский">
 
 ## Избранные проекты
 
+- **Десктопный лаунчер** — приложение на Electron.js.
 - **[Discord Status](https://github.com/Alexan1111t/Ukraine-Mod-Community-Discord-Status)** — число игроков на серверах прямо в профиле Discord.
 - **FileX** — [украинская](https://github.com/Alexan1111t/filex-lang-uk) и [русская](https://github.com/Alexan1111t/filex-lang-ru) локализации.
 - **[iHorizon](https://github.com/Alexan1111t/ihrz.github.io)** — многоязычный сайт Discord-бота.
